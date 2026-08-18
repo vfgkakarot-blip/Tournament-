@@ -13,7 +13,7 @@ COLOR = 0x00FFB3
 
 FOOTER = "quo is lub!"
 
-PREFIX = "q"
+PREFIX = "."
 
 SERVER_LINK = ""
 
